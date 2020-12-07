@@ -5,7 +5,14 @@ Training Data From: https://bushgrafts.com/
 
 ## Requirements
 
-ffmpeg
+Install Python Dependencies
+
+```
+pip install -r requirements.txt
+pip install git+https://github.com/vishnubob/python-midi.git#egg=midi
+```
+
+Install FFmpeg
 
 On MacOS
 ```
