@@ -33,10 +33,10 @@ Use the python script `animate.py` to generate an mp4 from a midi file. Settings
 
 ## References
 Dataset:
-https://bushgrafts.com/midi/
+- https://bushgrafts.com/midi/
 
 Git Repositories:
-https://github.com/fatemetkl/music-generator-Tensorflow-
-https://github.com/Conchylicultor/MusicGenerator
-https://github.com/Simeonedef/music_gen_deep_learning
-https://github.com/MajorThird/quick-midi-animation
+- https://github.com/fatemetkl/music-generator-Tensorflow-
+- https://github.com/Conchylicultor/MusicGenerator
+- https://github.com/Simeonedef/music_gen_deep_learning
+- https://github.com/MajorThird/quick-midi-animation
